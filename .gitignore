@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.sqlite3
+token.json
+.env
+*-token.json
+pending-*.json
